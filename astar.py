@@ -1,5 +1,5 @@
 """
-A* Search Algorithm Module for Smart Campus Navigator
+ A* Search Algorithm Module for Smart Campus Navigator
 Fundamentals of AI (CF321) - Project 1
 
 This module implements the custom A* Search algorithm from scratch.
